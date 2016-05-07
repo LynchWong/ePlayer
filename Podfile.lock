@@ -1,0 +1,27 @@
+PODS:
+  - GCDWebServer/Core (3.3.2)
+  - GCDWebServer/WebUploader (3.3.2):
+    - GCDWebServer/WebUploader/Core (= 3.3.2)
+  - GCDWebServer/WebUploader/Core (3.3.2):
+    - GCDWebServer/Core
+  - MobileVLCKit (2.2.2)
+  - RxCocoa (2.4):
+    - RxSwift (~> 2.4)
+  - RxSwift (2.4)
+  - UMengAnalytics-NO-IDFA (3.6.7)
+
+DEPENDENCIES:
+  - GCDWebServer/WebUploader (~> 3.3.2)
+  - MobileVLCKit (~> 2.2.2)
+  - RxCocoa (~> 2.4)
+  - RxSwift (~> 2.4)
+  - UMengAnalytics-NO-IDFA (~> 3.6.7)
+
+SPEC CHECKSUMS:
+  GCDWebServer: 2a375ec42839a41d7187d04e5b688d32fa5c4cd5
+  MobileVLCKit: 75c2c36b0e3478c3f18cac3a2e7fa127cda0ff92
+  RxCocoa: 7d6cd877de99f5640306b3d6cf87f580c1d91b61
+  RxSwift: 67b9ef4e8b34fb394e200e754c6a09cc16559f94
+  UMengAnalytics-NO-IDFA: 6d02561a00579b2e37718f204eb81347df5d7b8b
+
+COCOAPODS: 0.39.0
