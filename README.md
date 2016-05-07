@@ -1,6 +1,6 @@
 # ePlayer
 
-![image](https://github.com/LynchWong/CircleMenu/blob/master/demo.gif)
+![image](https://github.com/LynchWong/ePlayer/blob/master/intro.gif)
 
 请使用**CocoaPods**添加依赖库。
 
