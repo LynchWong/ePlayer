@@ -1,5 +1,7 @@
 # ePlayer
 
+![image](https://github.com/LynchWong/CircleMenu/blob/master/demo.gif)
+
 请使用**CocoaPods**添加依赖库。
 
 这个播放器是基于VLC的MobileVLCKit开发的，使用Swift。是我自己做的一个App，去年就上架到App Store了，最近空闲就小更新了下。
